@@ -47,16 +47,16 @@ Reminders are saved in a text file and displayed in a list. Each reminder is ass
    - Enter a title and description for your reminder.
    - Set a due date and time.
    - Click the "Add" button to save the reminder.
-<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/Patient-Management-System/Screenshots/login.png"/>
+<img src="https://github.com/ElliotOne/Reminder-System/blob/master/screenshots/first.png"/>
 
 2. **Viewing Reminders:**
    - The existing reminders will be displayed in the list. Each item shows the title, description, and due date.
-<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/Patient-Management-System/Screenshots/medical%20secretary%20panel.png"/>
+<img src="https://github.com/ElliotOne/Reminder-System/blob/master/screenshots/second.png"/>
 
 3. **Deleting a Reminder:**
    - Select the reminder you want to delete from the list.
    - Click the "Delete" button to remove it from the list and the text file.
-<img src="https://github.com/ElliotOne/Bachelor-Projects-Portfolio/blob/main/2.Data-Structures-and-Algorithms-Module/Patient-Management-System/Screenshots/doctor%20panel.png"/>
+<img src="https://github.com/ElliotOne/Reminder-System/blob/master/screenshots/third.png"/>
 
 4. **Reminder Status:**
    - For each reminder, the application will display whether it is still pending or overdue.
